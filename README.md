@@ -7,3 +7,5 @@ Space Bar  - Places static object\
 Left Click - Enters massless dynamic object placing, right click to place object - Objects placed with left click do not have mass\
 e - Enters dynamic object placing, right click to place object - Objects placed with right click do have mass\
 q - Toggles path overlay
+
+![Animation3](https://user-images.githubusercontent.com/63655147/156763732-337f820c-6e85-4db9-a836-722f6f4d4402.gif)
