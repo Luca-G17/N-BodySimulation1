@@ -6,7 +6,7 @@ pygame.init()
 clock = pygame.time.Clock()
 
 WIDTH = 1020
-HEIGHT = 800
+HEIGHT = 600
 
 win = pygame.display.set_mode((WIDTH, HEIGHT))
 colours = [[0, 0, 0], [0, 255, 0], [0, 0, 128], [255, 128, 0], [0, 153, 0]]
